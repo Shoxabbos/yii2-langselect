@@ -1,0 +1,21 @@
+{
+    "name": "shoxabbos/yii2-langselect",
+    "description": "Langugae selector",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","language","selector"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shoxabbos",
+            "email": "19941001@inbox.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shoxabbos\\langselect\\": ""
+        }
+    }
+}
